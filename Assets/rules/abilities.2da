@@ -1,0 +1,9 @@
+id _name                       type    name_strref icon           description_strref _description                                                                                  script cursor 
+0  "veille nocturne"           "spell" "1"         "veillee"      "9"                "se rend invincible pendant un tour"                                                          "_"    "_"    
+1  "coup de crépière"          "spell" "2"         "crepiere"     "10"               "inflige 25 pv de dégâts à un personnage"                                                     "_"    "_"    
+2  "goulée de cidre"           "spell" "3"         "cidre"        "11"               "soigne un personnage de 50 PV"                                                               "_"    "_"    
+3  "omelette aux champignons"  "spell" "4"         "omelette"     "12"               "rend un personnage malade pendant un tour, ne peux ni parler, ni rien faire pendant un tour" "_"    "_"    
+4  "inspection du domicile"    "ulti"  "17"        "inspection"   "13"               "révèle le rôle d'un personnage"                                                              "_"    "_"    
+5  "galinette sandrée"         "ulti"  "18"        "galinette"    "14"               "inflige 80 de dégâts à un personnage"                                                        "_"    "_"    
+6  "étrange rituel druidique"  "ulti"  "19"        "ritueldruide" "15"               "tue un personnage et vole son Identité. L'attaquant est déclaré mort."                       "_"    "_"    
+7  "farfouinnage"              "ulti"  "20"        "fouine"       "16"               "révèle le rôle d'un personnage"                                                              "_"    "_"    
